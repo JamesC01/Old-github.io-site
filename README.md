@@ -1,3 +1,3 @@
-# JamesCzekaj.github.io
+# JamesC01.github.io
 
-My personal GitHub.io page!
+My old personal GitHub.io page!
